@@ -5,4 +5,5 @@ pbkdf2
 pycryptodome
 requests
 siphash
+csiphash
 cffi
